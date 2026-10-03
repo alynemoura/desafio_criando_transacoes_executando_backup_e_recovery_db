@@ -4,7 +4,7 @@
 
 ##  📌 Descrição do Projeto
   
-Este projeto foi desenvolvido como parte de um desafio prático de banco de dados, abordando conceitos essenciais de transações, procedures com controle de rro e backup/recovery utilizando o MySQL e mysqldump.
+Este projeto foi desenvolvido como parte de um desafio prático de banco de dados, abordando conceitos essenciais de transações, procedures com controle de erro e backup/recovery utilizando o MySQL e mysqldump.
 
 
 ## 📖 Sobre o Projeto
